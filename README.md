@@ -5,11 +5,6 @@
 Python
 PostgreSQL
 Docker + Docker Compose
-
-Создайте файл .env с настройками:
-   -- POSTGRES_PASSWORD=supersecret123
-   -- DATABASE_URL=postgresql://user:supersecret123@db:5432/librarydb
-
 ## запросы 
 на порту http://localhost:8000
 
